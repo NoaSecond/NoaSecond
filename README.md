@@ -4,7 +4,8 @@
 </div>
 <br><br>
 <div align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YoruKiwi.YoruKiwi&format=true">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=YoruKiwi.YoruKiwi&format=true" />
+    <img src="https://img.shields.io/github/actions/workflow/status/YoruKiwi/AIMA-MiniCyc/codeql.yml?label=CI-GenerateSnake" />
 </div>
 <br><br>
 <div align="center">
