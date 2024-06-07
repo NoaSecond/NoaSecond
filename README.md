@@ -18,13 +18,22 @@
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoruKiwi&layout=compact&langs_count=8&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 </div>
 <br><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YoruKiwi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=YoruKiwi&theme=onedark" />
+</div>
+<br><br>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/YoruKiwi/YoruKiwi/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
 <br><br>
 <p style="display: flex; justify-content: center; margin-bottom: 3rem;">
     <a style="font-family: monospace; font-size: 1.5rem;">Let's hang out !</a>
 </p>
+<br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://link.noasecond.com)
 
