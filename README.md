@@ -5,7 +5,7 @@
 <br><br>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=NoaSecond.NoaSecond&format=true" />
-    <img src="https://img.shields.io/github/actions/workflow/status/NoaSecond/AIMA-MiniCyc/codeql.yml?label=CI-GenerateSnake" />
+    <img src="https://img.shields.io/github/actions/workflow/status/NoaSecond/NoaSecond/snake.yml?label=CI-GenerateSnake" />
 </div>
 <br><br>
 <div align="center">
