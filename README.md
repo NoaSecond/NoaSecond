@@ -4,8 +4,8 @@
 </div>
 <br><br>
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=YoruKiwi.YoruKiwi&format=true" />
-    <img src="https://img.shields.io/github/actions/workflow/status/YoruKiwi/AIMA-MiniCyc/codeql.yml?label=CI-GenerateSnake" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=NoaSecond.NoaSecond&format=true" />
+    <img src="https://img.shields.io/github/actions/workflow/status/NoaSecond/AIMA-MiniCyc/codeql.yml?label=CI-GenerateSnake" />
 </div>
 <br><br>
 <div align="center">
@@ -14,20 +14,20 @@
 <br><br>
 <div align="center" style="width: 100%;display: flex;justify-content: space-around;align-items: center;">
     <img height="200em"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=YoruKiwi&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoaSecond&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     <img height="200em"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoruKiwi&layout=compact&langs_count=8&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoaSecond&layout=compact&langs_count=8&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 </div>
 <br><br>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YoruKiwi&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NoaSecond&theme=onedark" />
 </div>
 <br><br>
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/YoruKiwi/YoruKiwi/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/NoaSecond/NoaSecond/output/github-contribution-grid-snake.svg" />
     </picture>
 </div>
 <br><br>
